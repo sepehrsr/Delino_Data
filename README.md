@@ -7,4 +7,4 @@ Scraping: some useful data about restaurants and foods scraped and stored in CSV
 
 Database: Data from CSV files imported to a database
 
-visualizing: some visualizations created in Power BI
+Visualizing: some visualizations created in Power BI
